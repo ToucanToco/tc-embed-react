@@ -10,7 +10,7 @@ const App = () => {
   return (
     <div className="App">
       {/* You import the component here ! */}
-      <TCEmbed host={host} id={id}/>
+      <TCEmbed name={"TCGraph"} host={host} id={id}/>
     </div>
   )
 }
