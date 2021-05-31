@@ -1,5 +1,9 @@
 # Toucan Toco Embed with React
 
+
+![DEMO](./tcembed-demo.gif "Demo")
+
+
 There is a simple demo of embed integration in React project.
 
 
